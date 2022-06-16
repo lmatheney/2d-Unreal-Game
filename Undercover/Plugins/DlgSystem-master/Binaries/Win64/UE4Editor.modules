@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"DlgSystem": "UE4Editor-DlgSystem.dll",
+		"DlgSystemEditor": "UE4Editor-DlgSystemEditor.dll"
+	}
+}

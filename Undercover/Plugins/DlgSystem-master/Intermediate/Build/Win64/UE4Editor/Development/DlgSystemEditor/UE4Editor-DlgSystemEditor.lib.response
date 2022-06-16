@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DlgSystemEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Intermediate\Build\Win64\UndercoverEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Module.DlgSystemEditor.cpp.obj"
+"F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Module.DlgSystemEditor.gen.cpp.obj"
+"F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Default.rc2.res"
+/OUT:"F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\UE4Editor-DlgSystemEditor.lib"

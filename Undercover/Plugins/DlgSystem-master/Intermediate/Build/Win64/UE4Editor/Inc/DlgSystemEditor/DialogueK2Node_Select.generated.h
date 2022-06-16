@@ -1,0 +1,327 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DLGSYSTEMEDITOR_DialogueK2Node_Select_generated_h
+#error "DialogueK2Node_Select.generated.h already included, missing '#pragma once' in DialogueK2Node_Select.h"
+#endif
+#define DLGSYSTEMEDITOR_DialogueK2Node_Select_generated_h
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_SPARSE_DATA
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_RPC_WRAPPERS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_RPC_WRAPPERS_NO_PURE_DECLS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_Select(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_Select_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_Select, UK2Node, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_Select)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_INCLASS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_Select(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_Select_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_Select, UK2Node, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_Select)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_Select(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_Select) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_Select); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_Select); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_Select(UDialogueK2Node_Select&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_Select(const UDialogueK2Node_Select&); \
+public:
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_Select(UDialogueK2Node_Select&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_Select(const UDialogueK2Node_Select&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_Select); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_Select); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_Select)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__PinNames() { return STRUCT_OFFSET(UDialogueK2Node_Select, PinNames); } \
+	FORCEINLINE static uint32 __PPO__VariableType() { return STRUCT_OFFSET(UDialogueK2Node_Select, VariableType); } \
+	FORCEINLINE static uint32 __PPO__VariablePinType() { return STRUCT_OFFSET(UDialogueK2Node_Select, VariablePinType); } \
+	FORCEINLINE static uint32 __PPO__bReconstructNode() { return STRUCT_OFFSET(UDialogueK2Node_Select, bReconstructNode); }
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_22_PROLOG
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_RPC_WRAPPERS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_INCLASS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_INCLASS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_25_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEMEDITOR_API UClass* StaticClass<class UDialogueK2Node_Select>();
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_SPARSE_DATA
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_RPC_WRAPPERS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_RPC_WRAPPERS_NO_PURE_DECLS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_SelectFloat(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_SelectFloat_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_SelectFloat, UDialogueK2Node_Select, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_SelectFloat)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_INCLASS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_SelectFloat(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_SelectFloat_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_SelectFloat, UDialogueK2Node_Select, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_SelectFloat)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectFloat(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_SelectFloat) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_SelectFloat); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_SelectFloat); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectFloat(UDialogueK2Node_SelectFloat&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectFloat(const UDialogueK2Node_SelectFloat&); \
+public:
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectFloat(UDialogueK2Node_SelectFloat&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectFloat(const UDialogueK2Node_SelectFloat&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_SelectFloat); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_SelectFloat); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_SelectFloat)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_PRIVATE_PROPERTY_OFFSET
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_135_PROLOG
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_RPC_WRAPPERS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_INCLASS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_RPC_WRAPPERS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_INCLASS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_138_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEMEDITOR_API UClass* StaticClass<class UDialogueK2Node_SelectFloat>();
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_SPARSE_DATA
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_RPC_WRAPPERS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_RPC_WRAPPERS_NO_PURE_DECLS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_SelectName(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_SelectName_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_SelectName, UDialogueK2Node_Select, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_SelectName)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_INCLASS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_SelectName(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_SelectName_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_SelectName, UDialogueK2Node_Select, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_SelectName)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectName(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_SelectName) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_SelectName); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_SelectName); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectName(UDialogueK2Node_SelectName&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectName(const UDialogueK2Node_SelectName&); \
+public:
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectName(UDialogueK2Node_SelectName&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectName(const UDialogueK2Node_SelectName&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_SelectName); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_SelectName); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_SelectName)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_PRIVATE_PROPERTY_OFFSET
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_151_PROLOG
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_RPC_WRAPPERS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_INCLASS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_RPC_WRAPPERS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_INCLASS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_154_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEMEDITOR_API UClass* StaticClass<class UDialogueK2Node_SelectName>();
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_SPARSE_DATA
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_RPC_WRAPPERS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_RPC_WRAPPERS_NO_PURE_DECLS
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_SelectOnSpeakerState(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_SelectOnSpeakerState_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_SelectOnSpeakerState, UDialogueK2Node_Select, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_SelectOnSpeakerState)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_INCLASS \
+private: \
+	static void StaticRegisterNativesUDialogueK2Node_SelectOnSpeakerState(); \
+	friend struct Z_Construct_UClass_UDialogueK2Node_SelectOnSpeakerState_Statics; \
+public: \
+	DECLARE_CLASS(UDialogueK2Node_SelectOnSpeakerState, UDialogueK2Node_Select, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystemEditor"), DLGSYSTEMEDITOR_API) \
+	DECLARE_SERIALIZER(UDialogueK2Node_SelectOnSpeakerState)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectOnSpeakerState(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_SelectOnSpeakerState) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_SelectOnSpeakerState); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_SelectOnSpeakerState); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectOnSpeakerState(UDialogueK2Node_SelectOnSpeakerState&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectOnSpeakerState(const UDialogueK2Node_SelectOnSpeakerState&); \
+public:
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectOnSpeakerState(UDialogueK2Node_SelectOnSpeakerState&&); \
+	DLGSYSTEMEDITOR_API UDialogueK2Node_SelectOnSpeakerState(const UDialogueK2Node_SelectOnSpeakerState&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DLGSYSTEMEDITOR_API, UDialogueK2Node_SelectOnSpeakerState); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDialogueK2Node_SelectOnSpeakerState); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDialogueK2Node_SelectOnSpeakerState)
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_PRIVATE_PROPERTY_OFFSET
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_167_PROLOG
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_RPC_WRAPPERS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_INCLASS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_PRIVATE_PROPERTY_OFFSET \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_SPARSE_DATA \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_RPC_WRAPPERS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_INCLASS_NO_PURE_DECLS \
+	Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h_170_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEMEDITOR_API UClass* StaticClass<class UDialogueK2Node_SelectOnSpeakerState>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Undercover_Plugins_DlgSystem_master_Source_DlgSystemEditor_Private_BlueprintNodes_DialogueK2Node_Select_h
+
+
+#define FOREACH_ENUM_EDLGVARIABLETYPE(op) \
+	op(EDlgVariableType::Float) \
+	op(EDlgVariableType::Int) \
+	op(EDlgVariableType::Name) \
+	op(EDlgVariableType::SpeakerState) 
+
+enum class EDlgVariableType : uint8;
+template<> DLGSYSTEMEDITOR_API UEnum* StaticEnum<EDlgVariableType>();
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,46 @@
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Development\DlgSystem\Definitions.DlgSystem.h
+F:/Unreal Engine/Projects/2d-Unreal-Game/Undercover/Plugins/DlgSystem-master/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystem/DlgCondition.gen.cpp
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem/Public/DlgCondition.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgConditionCustom.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgObject.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgObject.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgConditionCustom.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgCondition.generated.h
+F:/Unreal Engine/Projects/2d-Unreal-Game/Undercover/Plugins/DlgSystem-master/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystem/DlgConditionCustom.gen.cpp
+F:/Unreal Engine/Projects/2d-Unreal-Game/Undercover/Plugins/DlgSystem-master/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystem/DlgContext.gen.cpp
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem/Public/DlgContext.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgDialogue.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\IDlgDialogueEditorAccess.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgSystemSettings.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\NYEngineVersionHelpers.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\Logging/INYLogger.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\INYLogger.generated.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ClassViewer\Public\ClassViewerModule.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgNodeData.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNodeData.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgSystemSettings.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgDialogueParticipantData.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgDialogueParticipantData.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgDialogue.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\Nodes/DlgNode.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgEdge.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgEvent.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgEventCustom.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgEventCustom.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgEvent.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgTextArgument.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgTextArgumentCustom.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgTextArgumentCustom.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgTextArgument.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgEdge.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNode.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgMemory.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgMemory.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Source\DlgSystem\Public\DlgParticipantName.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgParticipantName.generated.h
+F:\Unreal Engine\Projects\2d-Unreal-Game\Undercover\Plugins\DlgSystem-master\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgContext.generated.h
+F:/Unreal Engine/Projects/2d-Unreal-Game/Undercover/Plugins/DlgSystem-master/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystem/DlgDialogue.gen.cpp
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
